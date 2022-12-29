@@ -3,3 +3,69 @@ git status
 git config --global user.name "jangili Pavani"
 git config -- global user.email "jangilipavani1992@gmail.com"
 git config --list
+
+
+Single file Creat
+
+touch file Name (Creat New File)
+ls (List the creat files)
+git status (To see file stage)
+git add file Name (To add workspace to Index Area)
+git status
+git commit -m "label name" file Name (To add Inbdex Area to Local Repo)
+git log (To see file is in Local Repo)
+git show commite ID
+
+
+---------------------------
+Multiple Files Creat:
+
+touch file1 file2 file3 file4
+git status
+git add file1 file2 file3 file4
+or
+git add .
+or git add *
+or git add -A
+git status
+git commit -m "Lable message"
+git log
+git show commit ID
+
+
+
+-------------------------
+To clone Data
+
+git clone https://github.com/Pavanijangili/Pavani1.git (Code in Github)
+ls
+cd Repo Name
+touch File name
+git status
+git add file name
+git status
+git commit -m"label Message" File name
+git log
+git push
+
+
+----------------------------
+
+To creat directories
+mkdir directory name
+cd director name
+tocuh file names
+cd ..
+git add directort name
+git commit -m "Label Massege" 
+git push
+
+
+
+------------------------
+To delete files
+rm file name
+git status
+git add .
+git commit -m "Label"
+git push
