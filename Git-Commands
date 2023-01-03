@@ -22,33 +22,33 @@ Multiple Files Creat:
 
 touch file1 file2 file3 file4
 git status
-hjdjtjggit add file1 file2 file3 file4
-ornnhggzx
+git add file1 file2 file3 file4
+or
 git add .
 or git add *
 or git add -A
-git statubbhgjkks
+git status
 git commit -m "Lable message"
 git log
-git show commit ffsserID
+git show commit ID
 
 
 
 -------------------------
 To clone Data
-git clone https://githvvcffdxxub.com/Pavanijangili/Pavani1.git (Code in Github)
+git clone https://github.com/Pavanijangili/Pavani1.git (Code in Github)
 ls
 cd Repo Name
-touch File namebbhjjk
+touch File name
 git status
 git add file name
-git statusbbmhfdde
-git commit -m"labebghkihvl Message" File name
+git status
+git commit -m"label Message" File name
 git log
-git pushnjhgyfd
+git push
 
 ----------------------------
-vnnhhy
+
 To creat directories
 mkdir directory name
 cd director name
