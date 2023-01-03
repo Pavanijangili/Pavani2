@@ -36,7 +36,6 @@ git show commit ID
 
 -------------------------
 To clone Data
-
 git clone https://github.com/Pavanijangili/Pavani1.git (Code in Github)
 ls
 cd Repo Name
@@ -47,7 +46,6 @@ git status
 git commit -m"label Message" File name
 git log
 git push
-
 
 ----------------------------
 
@@ -69,3 +67,7 @@ git status
 git add .
 git commit -m "Label"
 git push
+
+
+Hi how are you
+Hi good morning
